@@ -92,3 +92,4 @@ For a wider range of options, feel free to browse our collection of [Next.js Tem
 - Integrated Magic link signin
 - & Forgot password
 # VizaVoyage
+# VizaVoyage
